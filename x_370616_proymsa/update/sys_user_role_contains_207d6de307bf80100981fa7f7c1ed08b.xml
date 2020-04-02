@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="x_370616_proymsa.User" name="x_370616_proymsa.User">378e51ab077f80100981fa7f7c1ed00e</contains>
+        <role display_value="x_370616_proymsa.admin" name="x_370616_proymsa.admin">678c51e7077f80100981fa7f7c1ed03c</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-02 01:50:49</sys_created_on>
+        <sys_id>207d6de307bf80100981fa7f7c1ed08b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_370616_proymsa.User.x_370616_proymsa.admin</sys_name>
+        <sys_package display_value="PROYMSA" source="x_370616_proymsa">9b81816b073f80100981fa7f7c1ed023</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PROYMSA">9b81816b073f80100981fa7f7c1ed023</sys_scope>
+        <sys_update_name>sys_user_role_contains_207d6de307bf80100981fa7f7c1ed08b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-02 01:50:49</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>
